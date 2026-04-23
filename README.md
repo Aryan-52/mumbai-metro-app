@@ -68,24 +68,25 @@ A production-level Flutter application designed to provide a complete digital so
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```
 lib/
 ├── core/
-│ ├── data/
-│ ├── models/
-│ ├── providers/
-│ ├── services/
-│ └── theme/
+│   ├── data/
+│   ├── models/
+│   ├── providers/
+│   ├── services/
+│   └── theme/
 ├── screens/
-│ ├── auth/
-│ ├── home/
-│ ├── map/
-│ ├── profile/
-│ ├── routes/
-│ ├── tickets/
-│ └── splash/
+│   ├── auth/
+│   ├── home/
+│   ├── map/
+│   ├── profile/
+│   ├── routes/
+│   ├── tickets/
+│   └── splash/
 └── main.dart
-
 
 ---
 
