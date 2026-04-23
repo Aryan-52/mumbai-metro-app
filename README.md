@@ -88,7 +88,7 @@ lib/
 │   └── splash/
 └── main.dart
 
----
+```
 
 ## ⚙️ Setup Instructions
 
