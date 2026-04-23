@@ -1,4 +1,4 @@
-# Mumbai Metro Smart Companion
+# Mumbai Metro Smart Companion 🚇
 
 A production-level Flutter application designed to provide a complete digital solution for metro commuters in Mumbai. The app integrates route planning, ticket booking, real-time insights, and safety features into a single platform.
 
